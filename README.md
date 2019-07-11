@@ -1,0 +1,1 @@
+# odoo-sh-manatec-demo12mg
